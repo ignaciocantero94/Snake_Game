@@ -15,5 +15,3 @@ source venv/bin/activate
 pip install readchar
 python maze.py
 ```
-# Snake-Game
-# Snake_Game
