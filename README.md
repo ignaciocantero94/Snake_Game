@@ -10,8 +10,8 @@ Un simple juego en el que puedes mover tu personaje, en este caso "@", donde vas
 ```bash
 git clone https://github.com/ignaciocantero94/Snake_Game.git
 cd idaeProjects/Curso_Python/Snake_Game
-pip install readchar
 python3 -m venv venv
 source venv/bin/activate
+pip install readchar
 python maze.py
 ```
