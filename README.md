@@ -6,13 +6,12 @@ Pequeño programa que simula el legendario juego del Snake en la terminal
 ## Funcionalidades
 Un simple juego en el que puedes mover tu personaje, en este caso "@", donde vas cogiendo pequeños objetos en el mapa
 para hacer que la serpiente sea cada vez más grande.
-## Instalación
+##Intalación
 ```bash
-git clone https://github.com/ignaciocantero94/Snake_Game.git
-cd Snake_Game
-python3 -m venv venv (mac/unix)
-python -m venv venv (windows)
-source venv/Source/activate
+git clone https://github.com/ignaciocantero94/Snake-Game.git
+cd idaeProjects/Curso_Python
+python3 -m venv venv
+source venv/bin/activate
 pip install readchar
 python maze.py
 ```
