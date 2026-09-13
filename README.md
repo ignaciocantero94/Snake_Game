@@ -12,7 +12,7 @@ git clone https://github.com/ignaciocantero94/Snake_Game.git
 cd Snake_Game
 python3 -m venv venv (Mac/Unix)
 python -m venv venv (Windows)
-source venv/Scripts/activate (Mac/Unix)
+source venv/bin/activate (Mac/Unix)
 source venv/Scripts/activate (Windows)
 pip install readchar
 python maze.py
