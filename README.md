@@ -8,7 +8,7 @@ Un simple juego en el que puedes mover tu personaje, en este caso "@", donde vas
 para hacer que la serpiente sea cada vez más grande.
 ## Instalación
 ```bash
-git clone https://github.com/ignaciocantero94/Snake-Game.git
+git clone https://github.com/ignaciocantero94/Snake_Game.git
 cd Snake_Game
 python3 -m venv venv (mac/Unix)
 python -m venv venv (windows)
